@@ -1,30 +1,19 @@
-# backoffice-ui
+# jcart-backoffice-UI
 
-> BackOffice UI Application
+____________________________________________________________________
+##### Setting up project
+____________________________________________________________________
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+Pre requisites node and yarn.
+```
+npm install or brew install yarn
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Start the server at localhost:8080
+```
+`npm start` or `yarn start`
+```
+
+
+[Reference](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel/)
