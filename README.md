@@ -20,7 +20,7 @@ npm start or yarn start
 Run test by hot reload
 
 ```
-npm test:watch or yarn test:watch
+npm run test:watch or yarn test:watch
 ```
 
 
