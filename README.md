@@ -1,27 +1,21 @@
 # jcart-backoffice-UI
-
 ____________________________________________________________________
 #### Setting up project
 ____________________________________________________________________
 
-
-Pre requisites - node or yarn
-
+Pre requisites node and yarn.
 ```
-npm install or brew install yarn
+npm install or install yarn
 ```
 
 Start the server at localhost:8080
-
 ```
-npm start or yarn start
-```
-
-Run test by hot reload
-
-```
-npm run test:watch or yarn test:watch
+`npm start` or `yarn start`
 ```
 
+Run test
+```
+npm run test or yarn test
+```
 
-[Reference](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel/)
+[Reference](https://github.com/facebookincubator/create-react-app)
